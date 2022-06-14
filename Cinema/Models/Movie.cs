@@ -13,5 +13,6 @@ namespace Cinema.Models
         public string Description { get; set; } = string.Empty;
         public int IdClassification { get; set; }
         public Classification? Classification { get; set; }
+        //Hola Mundo
     }
 }
